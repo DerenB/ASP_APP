@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\API\\API.csproj": {}
+    "C:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\API\\API.csproj": {
+    "C:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\API\\API.csproj",
+        "projectPath": "C:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\API\\API.csproj",
         "packagesPath": "C:\\Users\\dboze\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\API\\obj\\",
+        "outputPath": "C:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -25,6 +25,7 @@
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,6 +44,12 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[5.0.4, )"
