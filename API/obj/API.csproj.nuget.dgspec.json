@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\API\\API.csproj": {}
+    "C:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\API\\API.csproj": {
+    "C:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\API\\API.csproj",
+        "projectPath": "C:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\api\\API.csproj",
         "packagesPath": "C:\\Users\\dboze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\API\\obj\\",
+        "outputPath": "C:\\Users\\dboze\\Documents\\Local-Repos\\ASP\\ASP_APP\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
